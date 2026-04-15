@@ -2,7 +2,7 @@
   "name": "skillbites-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ummrania91-lab.github.io/my-startup",
+  "homepage": "https://ummrania91-lab.github.io/My-startup",
   "dependencies": {
     "autoprefixer": "^10.4.27",
     "postcss": "^8.5.8",
