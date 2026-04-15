@@ -2,9 +2,9 @@ name: NodeJS with Webpack
 
 on:
   push:
-    branches: [ "claude/skillbites-react-frontend-SAztk" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "claude/skillbites-react-frontend-SAztk" ]
+    branches: [ "main" ]
 
 jobs:
   build:
