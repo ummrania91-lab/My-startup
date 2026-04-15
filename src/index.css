@@ -4,26 +4,28 @@
 
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #1A1A2E;
-  color: #FFFFFF;
+  background-color: #FAF7F2;
+  color: #3D2B1F;
   margin: 0;
   padding: 0;
 }
 
 h1, h2, h3, h4 {
   font-family: 'Playfair Display', serif;
+  color: #5C4033;
 }
 
 ::-webkit-scrollbar {
   height: 6px;
+  width: 6px;
 }
 
 ::-webkit-scrollbar-track {
-  background: #2D2D44;
+  background: #EDE8DE;
   border-radius: 3px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #8B5CF6;
+  background: #8B6F47;
   border-radius: 3px;
 }
